@@ -3,7 +3,7 @@ module.exports = {
   title: 'Mikrodev Documentation',
   tagline: 'Documentation site',
   url: 'https://mikrodev.github.io',
-  baseUrl: '/',
+  baseUrl: '/Documentation/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -85,13 +85,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/mikrodev/Documentation/edit/main/',
+            'https://github.com/mikrodev/Documentation/edit/master/documentation',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+            'https://github.com/mikrodev/Documentation/edit/master/documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

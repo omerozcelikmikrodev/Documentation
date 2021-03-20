@@ -3,7 +3,7 @@ module.exports = {
   title: 'Mikrodev Documentation',
   tagline: 'Documentation site',
   url: 'https://mikrodev.github.io',
-  baseUrl: '/Documentation/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',

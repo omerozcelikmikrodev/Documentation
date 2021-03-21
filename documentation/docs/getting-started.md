@@ -1,5 +1,5 @@
 ---
-title: ViewPLUS SCADA Editor Ali
+title: ViewPLUS SCADA Editor Ali Alan
 slug: /
 ---
 

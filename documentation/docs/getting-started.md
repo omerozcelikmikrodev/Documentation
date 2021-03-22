@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ---
 title: ViewPLUS SCADA Editor fattt
 slug: /

@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 ---
-title: ViewPLUS SCADA Editor Ali Alan test aa
+title: ViewPLUS SCADA Editor fattt
 slug: /
 ---
 

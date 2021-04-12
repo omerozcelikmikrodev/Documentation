@@ -11,24 +11,38 @@ module.exports = {
   projectName: 'Documentation', // Usually your repo name.
   themeConfig: { 
     navbar: {
-      title: 'Mikrodev Documentation',
+      title: '',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/mikrodevlogo.png',
       },
       items: [
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'ViewPLUS SCADA',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/mikrodev/Documentation',
-          label: 'GitHub',
-          position: 'right',
+		{
+          to: 'docs/',
+          activeBasePath: 'docs2',
+          label: 'Mikrodiagram(PLC)',
+          position: 'left',
         },
+		{
+          to: 'docs/',
+          activeBasePath: 'docs2',
+          label: 'Telediagram(RTU)',
+          position: 'left',
+        },
+		{
+          to: 'docs/',
+          activeBasePath: 'docs2',
+          label: 'Assistant(Gateway)',
+          position: 'left',
+        },
+        
+        
       ],
     },
     footer: {

@@ -22,22 +22,22 @@ module.exports = {
       items: [
         {			
           to: 'docs/ViewPLUS-SCADA-Editor',
-          label: 'ViewPLUS SCADA',
+          label: 'Software',
           position: 'left',
         },
 		{
-          to: 'docs/Mikrodiagram-Editor',
-          label: 'Mikrodiagram(PLC)',
+          to: 'docs/PLC-MP110-Series-Hardware-Manual',
+          label: 'PLC',
           position: 'left',
         },
 		{
-          to: 'docs/Telediagram-Editor',
-          label: 'Telediagram(RTU)',
+          to: 'docs/RTU-RTU-Series-Hardware-Manual',
+          label: 'RTU',
           position: 'left',
         },
 		{
-          to: 'docs/Gateway-Led-Status',
-          label: 'Assistant(Gateway)',
+          to: 'docs/Gateway-MBS100-Hardware-Manual',
+          label: 'Gateway',
           position: 'left',
         },
         

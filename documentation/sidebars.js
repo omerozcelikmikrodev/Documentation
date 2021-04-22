@@ -1,5 +1,5 @@
 module.exports = {
-  "SCADA": {
+  "Documents": {
     "ViewPLUS SCADA Documents": [
 	    'ViewPLUS-SCADA-Editor',
 		'ViewPLUS-SCADA-Server',
@@ -10,9 +10,7 @@ module.exports = {
 		'ViewPLUS-SCADA-WebApi',
 		'ViewPLUS-SCADA-Example-Projects',
     ],
-  },
-  "PLC": {
-    "Mikrodiagram Documents": [
+	"Mikrodiagram Documents": [
     ],
 	    "Mikrodiagram Documents": [
 	    'Mikrodiagram-Editor',
@@ -25,18 +23,49 @@ module.exports = {
 		"Mikrodiagram-Factory-Settings",
 		"Mikrodiagram-Example-Projects",
     ],
-	"User Manual": [
-	"Mikrodiagram-User-Manual",
-    ],
-  },
-  "RTU": {
-    "Telediagram Documents": [
+	"Telediagram Documents": [
 	    'Telediagram-Editor',
     ],
-  },
-    "Gateway": {
-    "Assistant Documents": [
+	"Assistant Documents": [
 	    'Gateway-Led-Status',
     ],
+
   },
+  "PLC": {
+	    "PLC Hardware Manual": [
+          "PLC-MP110-Series-Hardware-Manual",  
+		  "PLC-MP211-Series-Hardware-Manual",
+	  ],
+	  	    "PLC Software Manual": [
+          "PLC-MP110-Series-Software-Manual",  
+		  "PLC-MP211-Series-Software-Manual",
+	  ],
+	  "Expansion Modules Hardware Manual": [
+          "PLC-XIO110-Expansion-Modules",
+		  "PLC-XIO211-Expansion-Modules",		  
+	  ],
+	},
+	  "RTU": {
+	    "RTU Hardware Manual": [
+          "RTU-RTU-Series-Hardware-Manual",
+          "RTU-DM100-Hardware-Manual", 		  
+	  ],
+	  	    "RTU Software Manual": [
+          "RTU-RTU300-Series-Software-Manual",  
+	  ],
+	},
+	
+		  "Gateway": {
+	    "Gateway Hardware Manual": [
+          "Gateway-MBS100-Hardware-Manual",
+          "Gateway-MMS100-Hardware-Manual",
+          "Gateway-MDC100-Hardware-Manual",
+          "Gateway-SC100-Hardware-Manual",		  
+	  ],
+	  	    "Gateway Software Manual": [
+		  "Gateway-MBS100-Software-Manual",
+		  "Gateway-MMS100-Software-Manual",
+          "Gateway-MDC100-Software-Manual",          		  
+	  ],
+	},
 };

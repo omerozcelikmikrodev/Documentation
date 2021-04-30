@@ -22,50 +22,52 @@ module.exports = {
 		'Mikrodiagram-Updating-Firmware',
 		"Mikrodiagram-Factory-Settings",
 		"Mikrodiagram-Example-Projects",
+        "PLC-MP110-Series-Software-Manual",  
+		"PLC-MP211-Series-Software-Manual",		
     ],
 	"Telediagram Documents": [
 	    'Telediagram-Editor',
+        "RTU-RTU300-Series-Software-Manual",  		
     ],
 	"Assistant Documents": [
-	    'Gateway-Led-Status',
+		  "Gateway-MBS100-Software-Manual",
+		  "Gateway-MMS100-Software-Manual",
+          "Gateway-MDC100-Software-Manual", 	    
     ],
 
   },
   "PLC": {
-	    "PLC Hardware Manual": [
+	    "PLC Hardware": [
           "PLC-MP110-Series-Hardware-Manual",  
 		  "PLC-MP211-Series-Hardware-Manual",
 	  ],
-	  	    "PLC Software Manual": [
-          "PLC-MP110-Series-Software-Manual",  
-		  "PLC-MP211-Series-Software-Manual",
-	  ],
+
 	  "Expansion Modules Hardware Manual": [
           "PLC-XIO110-Expansion-Modules",
 		  "PLC-XIO211-Expansion-Modules",		  
 	  ],
 	},
 	  "RTU": {
-	    "RTU Hardware Manual": [
+	    "RTU Hardware": [
           "RTU-RTU-Series-Hardware-Manual",
           "RTU-DM100-Hardware-Manual", 		  
-	  ],
-	  	    "RTU Software Manual": [
-          "RTU-RTU300-Series-Software-Manual",  
 	  ],
 	},
 	
 		  "Gateway": {
-	    "Gateway Hardware Manual": [
+	    "Gateway Hardware": [
           "Gateway-MBS100-Hardware-Manual",
           "Gateway-MMS100-Hardware-Manual",
           "Gateway-MDC100-Hardware-Manual",
-          "Gateway-SC100-Hardware-Manual",		  
+          "Gateway-SC100-Hardware-Manual",
+          "Gateway-Led-Status",		  
 	  ],
-	  	    "Gateway Software Manual": [
-		  "Gateway-MBS100-Software-Manual",
-		  "Gateway-MMS100-Software-Manual",
-          "Gateway-MDC100-Software-Manual",          		  
+
+	},
+	
+		  "Downloads": {
+	    "Downloads": [
+          "Downloads",	  
 	  ],
 	},
 };

@@ -40,7 +40,11 @@ module.exports = {
           label: 'Gateway',
           position: 'left',
         },
-        
+		{
+          to: 'docs/Downloads',
+          label: 'Downloads',
+          position: 'left',
+        },        
         
       ],
     },

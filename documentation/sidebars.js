@@ -1,6 +1,6 @@
 module.exports = {
   "Documents": {
-    "ViewPLUS SCADA Documents": [
+    "ViewPLUS SCADA": [
 	    'ViewPLUS-SCADA-Editor',
 		'ViewPLUS-SCADA-Server',
 		'ViewPLUS-SCADA-Client',
@@ -10,9 +10,9 @@ module.exports = {
 		'ViewPLUS-SCADA-WebApi',
 		'ViewPLUS-SCADA-Example-Projects',
     ],
-	"Mikrodiagram Documents": [
+	"Mikrodiagram": [
     ],
-	    "Mikrodiagram Documents": [
+	    "Mikrodiagram": [
 	    'Mikrodiagram-Editor',
 		'Mikrodiagram-Mikroterminal-Interface',
 		'Mikrodiagram-Special-Modbus-Registers',
@@ -25,11 +25,11 @@ module.exports = {
         "PLC-MP110-Series-Software-Manual",  
 		"PLC-MP211-Series-Software-Manual",		
     ],
-	"Telediagram Documents": [
+	"Telediagram": [
 	    'Telediagram-Editor',
         "RTU-RTU300-Series-Software-Manual",  		
     ],
-	"Assistant Documents": [
+	"Assistant": [
 		  "Gateway-MBS100-Software-Manual",
 		  "Gateway-MMS100-Software-Manual",
           "Gateway-MDC100-Software-Manual", 	    
@@ -42,7 +42,7 @@ module.exports = {
 		  "PLC-MP211-Series-Hardware-Manual",
 	  ],
 
-	  "Expansion Modules Hardware Manual": [
+	  "Expansion Modules Hardware": [
           "PLC-XIO110-Expansion-Modules",
 		  "PLC-XIO211-Expansion-Modules",		  
 	  ],

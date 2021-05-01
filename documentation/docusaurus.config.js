@@ -1,5 +1,6 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  plugins: [require.resolve('docusaurus-lunr-search')],
   title: 'Mikrodev Documentation',
   tagline: '',
   url: 'https://mikrodev.github.io',

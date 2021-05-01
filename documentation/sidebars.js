@@ -1,7 +1,7 @@
 module.exports = {
   "Documents": {
     "ViewPLUS SCADA": [
-	    'ViewPLUS-SCADA-Editor',
+	     'ViewPLUS-SCADA-Editor',
 		'ViewPLUS-SCADA-Server',
 		'ViewPLUS-SCADA-Client',
 		'ViewPLUS-SCADA-Data-Manager',

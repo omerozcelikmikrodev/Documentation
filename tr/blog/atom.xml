@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mikrodev.github.io/blog</id>
+    <title>Mikrodev Documentation Blog</title>
+    <updated>2015-10-25T23:29:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mikrodev.github.io/blog"/>
+    <subtitle>Mikrodev Documentation Blog</subtitle>
+    <icon>https://mikrodev.github.io/img/mikrodev_logo2.jpeg</icon>
+</feed>

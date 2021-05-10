@@ -1,5 +1,17 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
+  i18n: {
+    defaultLocale: "en",
+    locales: ["en", "tr"],
+    localeConfigs: {
+      en: {
+        label: "English",
+      },
+      tr: {
+        label: "Turkish",
+      },
+    },
+  },
   plugins: [require.resolve('docusaurus-lunr-search')],
   title: 'Mikrodev Documentation',
   tagline: '',
@@ -21,6 +33,10 @@ module.exports = {
         src: 'img/mikrodevlogo.png',
       },
       items: [
+	  {
+          type: 'localeDropdown',
+          position: 'right',
+        },
         {			
           to: 'docs/ViewPLUS-SCADA-Editor',
           label: 'Software',

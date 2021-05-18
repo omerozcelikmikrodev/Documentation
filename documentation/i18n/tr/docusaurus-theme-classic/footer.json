@@ -1,0 +1,74 @@
+{
+  "link.title.Products": {
+    "message": "Ürünler",
+    "description": "The title of the footer links column with title=Products in the footer"
+  },
+  "link.title.Community": {
+    "message": "Topluluk",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.Mikrodev UK Limited Company": {
+    "message": "Mikrodev Bilişim Yazılım Elektronik San. ve Tic. Ltd. Şti.",
+    "description": "The title of the footer links column with title=Mikrodev UK Limited Company in the footer"
+  },
+  "link.item.label.Programmable Logic Controller(PLC)": {
+    "message": "Programlanabilir Lojik Kontrolör(PLC)",
+    "description": "The label of footer link with label=Programmable Logic Controller(PLC) linking to https://www.mikrodev.com/en/products/#plc"
+  },
+  "link.item.label.Distributed Control System(DCS)": {
+    "message": "Dağıtık Kontrol Sistemleri(DCS)",
+    "description": "The label of footer link with label=Distributed Control System(DCS) linking to https://www.mikrodev.com/en/rtu350/"
+  },
+  "link.item.label.Expansion Modules": {
+    "message": "Genişleme Modülleri",
+    "description": "The label of footer link with label=Expansion Modules linking to https://www.mikrodev.com/en/products/#genisleme-modulu"
+  },
+  "link.item.label.IOT Protocol Converters": {
+    "message": "IOT Protokol Dönüştürücüler",
+    "description": "The label of footer link with label=IOT Protocol Converters linking to https://www.mikrodev.com/en/products/#modbus-gateway"
+  },
+  "link.item.label.Operator Control And Monitoring System": {
+    "message": "Operatör Kontrol ve İzleme Sistemi",
+    "description": "The label of footer link with label=Operator Control And Monitoring System linking to https://www.mikrodev.com/en/products/#viewplus-scada"
+  },
+  "link.item.label.Facebook": {
+    "message": "Facebook",
+    "description": "The label of footer link with label=Facebook linking to https://www.facebook.com/MikrodevBilisim/"
+  },
+  "link.item.label.Linkedin": {
+    "message": "Linkedin",
+    "description": "The label of footer link with label=Linkedin linking to https://tr.linkedin.com/company/mikrodev-bili%C5%9Fim-yaz%C4%B1l%C4%B1m-elektronik-sanayi-ve-ticaret-limited-%C5%9Firketi"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/mikrodevTR"
+  },
+  "link.item.label.Youtube": {
+    "message": "Youtube",
+    "description": "The label of footer link with label=Youtube linking to https://www.youtube.com/channel/UC-67KqN9lzKKQUuZaMt3Zhg"
+  },
+  "link.item.label.Instagram": {
+    "message": "Instagram",
+    "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/mikrodevbilisim/"
+  },
+  "link.item.label.Technical Forum": {
+    "message": "Teknik Destek Forum",
+    "description": "The label of footer link with label=Technical Forum linking to https://destek.mikrodev.com/"
+  },
+  "link.item.label.338a Regents Park Road, Office 3 And 4, London, England, N3 2LN": {
+    "message": "Cumhuriyet Mh. Turgut Özal Cd. No:26 41420 Çayırova - KOCAELİ",
+    "description": "The label of footer link with label=338a Regents Park Road, Office 3 And 4, London, England, N3 2LN linking to /"
+  },
+  "link.item.label.sales@mikrodev.com": {
+    "message": "sales@mikrodev.com",
+    "description": "The label of footer link with label=sales@mikrodev.com linking to /"
+  },
+  "link.item.label.+44 750 225 94 65": {
+    "message": "+90 850 217 34 28",
+    "description": "The label of footer link with label=+44 750 225 94 65 linking to /"
+  },
+  "copyright": {
+    "message": "Copyright © 2021 Mikrodev Limited",
+    "description": "The footer copyright"
+  }
+}

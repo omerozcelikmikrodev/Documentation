@@ -1,0 +1,22 @@
+{
+  "item.label.Software": {
+    "message": "Yazılım",
+    "description": "Navbar item with label Software"
+  },
+  "item.label.PLC": {
+    "message": "PLC",
+    "description": "Navbar item with label PLC"
+  },
+  "item.label.RTU": {
+    "message": "RTU",
+    "description": "Navbar item with label RTU"
+  },
+  "item.label.Gateway": {
+    "message": "Gateway",
+    "description": "Navbar item with label Gateway"
+  },
+  "item.label.Downloads": {
+    "message": "İndirmeler",
+    "description": "Navbar item with label Downloads"
+  }
+}

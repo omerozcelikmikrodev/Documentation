@@ -1,0 +1,42 @@
+{
+  "version.label": {
+    "message": "İleri",
+    "description": "The label for version current"
+  },
+  "sidebar.Documents.category.ViewPLUS SCADA": {
+    "message": "ViewPLUS SCADA",
+    "description": "The label for category ViewPLUS SCADA in sidebar Documents"
+  },
+  "sidebar.Documents.category.Mikrodiagram": {
+    "message": "Mikrodiagram",
+    "description": "The label for category Mikrodiagram in sidebar Documents"
+  },
+  "sidebar.Documents.category.Telediagram": {
+    "message": "Telediagram",
+    "description": "The label for category Telediagram in sidebar Documents"
+  },
+  "sidebar.Documents.category.Assistant": {
+    "message": "Assistant",
+    "description": "The label for category Assistant in sidebar Documents"
+  },
+  "sidebar.PLC.category.PLC Hardware": {
+    "message": "PLC Donanım",
+    "description": "The label for category PLC Hardware in sidebar PLC"
+  },
+  "sidebar.PLC.category.Expansion Modules Hardware": {
+    "message": "Genişleme Modül Donanım",
+    "description": "The label for category Expansion Modules Hardware in sidebar PLC"
+  },
+  "sidebar.RTU.category.RTU Hardware": {
+    "message": "RTU Donanım",
+    "description": "The label for category RTU Hardware in sidebar RTU"
+  },
+  "sidebar.Gateway.category.Gateway Hardware": {
+    "message": "Gateway Donanım",
+    "description": "The label for category Gateway Hardware in sidebar Gateway"
+  },
+  "sidebar.Downloads.category.Downloads": {
+    "message": "İndirmeler",
+    "description": "The label for category Downloads in sidebar Downloads"
+  }
+}

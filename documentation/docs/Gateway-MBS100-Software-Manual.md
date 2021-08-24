@@ -176,7 +176,7 @@ entered. In this section, information coming from the device is displayed on the
 "Custom Command Input" section, type the command to be queried (eg AT + VERSION =?)
 And click "Send" to send the query to the device. The query answer appears on the screen.
 Click on "Clear History" in the "Console Window" section to clear the queries that
-are displayed on the screen.
+are displayed on the screen..
 
 <center>
 
